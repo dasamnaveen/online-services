@@ -1,0 +1,9 @@
+h2{
+    text-align: center;
+    font-family: sans-serif, Garamond;
+    color:black;
+    border: 2px solid rgb(89, 255, 0);
+    border-radius: 25px;
+    padding: 10px;
+    background-color: rgb(89, 255, 0);
+}
